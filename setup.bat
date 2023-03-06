@@ -6,7 +6,7 @@ echo Welcome back to suffering :-)
 @REM repo so I do not have to download it everytime manaully.
 
 echo Adding Node v18 to path for terminal session
-set path=%path%;%cd%\bin\node-v18.14.2-win-x64
+set path=%path%;%cd%\node-v18.14.2-win-x64
 
 @REM My college basically has MITM attacks to monitor network traffic of all machines
 @REM They use a self signed SSL cert which is registered on the windows cert manager thing
